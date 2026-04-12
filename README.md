@@ -25,28 +25,18 @@
 
 ---
 
-## 📊 Overall Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehulShukla-git&show_icons=true)
-
----
-
-## 💡 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulShukla-git&layout=compact)
-
----
-
 ## 📈 Contribution Graph  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MehulShukla-git)
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=MehulShukla-git)
+## 🏆 GitHub Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=MehulShukla-git&no-frame=true)
 
 ---
 
-## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=MehulShukla-git&no-frame=true)
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=MehulShukla-git)
 
 ---
 
