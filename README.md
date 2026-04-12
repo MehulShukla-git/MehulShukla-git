@@ -33,6 +33,10 @@
 
 ---
 
+
+## 🐍 Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/MehulShukla-git/MehulShukla-git/output/github-contribution-grid-snake.svg)
+
 ## 🚀 What I Do  
 
 - 🤖 Machine Learning & AI Projects  
