@@ -18,9 +18,7 @@
 
 ---
 
-# 📊 GitHub Stats  
-
-## 🔥 Streak Stats  
+## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=MehulShukla-git)
 
 ---
@@ -30,18 +28,8 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=MehulShukla-git&no-frame=true)
-
----
-
 ## 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=MehulShukla-git)
-
----
-
-## 🐍 Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/MehulShukla-git/MehulShukla-git/output/github-contribution-grid-snake.svg)
 
 ---
 
